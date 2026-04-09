@@ -2,6 +2,8 @@
 
 **Part of the [OpenClaw Security Suite](#the-suite) — Tool 3 of 4**
 
+> **⚠️ Proof of concept.** This is an open-source demo showing how far multi-step attack chain discovery can take AI agent security testing. It is not a substitute for professional penetration testing. The production version is whatever you make of it — fork it, design your own attack narratives, harden it, make it yours. This repo exists to show what's possible.
+
 Autonomous multi-step attack chain discovery. Plans and executes realistic attack sequences where each step is an innocent-looking request sent to a fresh session. The malicious intent exists only in the sequence, not in any individual step.
 
 Based on ["Don't Let the Claw Grip Your Hand"](https://arxiv.org/abs/2603.10387) (Shan et al., 2026).
